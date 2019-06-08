@@ -18,6 +18,7 @@ of that startup so as to improve it's own ways of achieving it's goal.
 
 Third,we'll be able to find the median salary to be given to a new employee who wants to join our company say in X position.
 Giving a sufficient or industry standard salary means increasing productive levels of an employee and thus the company gets benefitted.
+Random Forest Regression method is used to achieve the above goal.
 
 
 All the required files for training our machine learning models are also provided.
