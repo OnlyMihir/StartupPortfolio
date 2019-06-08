@@ -1,5 +1,6 @@
 # StartupPortfolio
-Using Machine Learning Algorithms to predict median salary to be given to a new employee and ingest portfolios of various startups and choose the best startup among them in terms of efficient utilization of resources by a startup .
+Using Machine Learning Algorithms to predict median salary to be given to a new employee and ingest portfolios of various startups and choose the best startup among them in terms of efficient utilization of resources by a startup and alsoe be able to predict an industry
+standard salary to be given to a new joining entrant.
 
 
 This project can be said as an internal tool to be used by a company's data analyst.
@@ -17,3 +18,6 @@ of that startup so as to improve it's own ways of achieving it's goal.
 
 Third,we'll be able to find the median salary to be given to a new employee who wants to join our company say in X position.
 Giving a sufficient or industry standard salary means increasing productive levels of an employee and thus the company gets benefitted.
+
+
+All the required files for training our machine learning models are also provided.
