@@ -1,4 +1,7 @@
 # StartupPortfolio
+
+### This project developed to learn Machine Learning using Python during my Master of Computer Applications(MCA) degree course 2nd year.
+
 Using Machine Learning Algorithms to predict median salary to be given to a new employee and ingest portfolios of various startups and choose the best startup among them in terms of efficient utilization of resources by a startup and alsoe be able to predict an industry
 standard salary to be given to a new joining entrant.
 
